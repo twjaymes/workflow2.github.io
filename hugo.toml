@@ -1,0 +1,6 @@
+baseURL = "https://twjaymes.github.io/"
+languageCode = "en-us"
+title = "My Workflow Blog"
+theme = "hugo-theme-tailwind"
+
+# Add other configurations as needed, such as menu, params, etc.
